@@ -17,5 +17,7 @@ class Dog
       if methods == @name
         print methods
       end
+    end
   end
+  
 end
