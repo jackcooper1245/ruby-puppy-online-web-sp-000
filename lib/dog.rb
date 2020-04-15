@@ -13,11 +13,9 @@ class Dog
   end
   
   def self.print_all
-    @@all.each do |dog, methods|
-      if methods == @name
-        print methods
-      end
-    end
+    @@all.each do |dog|
+   puts dog.name 
+ end
   end
   
 end
