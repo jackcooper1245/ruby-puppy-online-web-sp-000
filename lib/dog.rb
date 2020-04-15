@@ -1,4 +1,4 @@
-# Add your code here
+# Add yourcode here
 class Dog 
   
   attr_accessor:name
